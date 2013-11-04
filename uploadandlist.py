@@ -7,8 +7,8 @@ from apiclient.discovery import build
 from apiclient.http import MediaFileUpload
 from oauth2client.client import OAuth2WebServerFlow
 
-CLIENT_ID = '261794177530-vpubpn8dlird7v4tkvbv5g3ujueu6rh3.apps.googleusercontent.com'
-CLIENT_SECRET = 'XplTCraljxSV0jA7ISzRbLod'
+CLIENT_ID = '445874485421.apps.googleusercontent.com'
+CLIENT_SECRET = 'wLU84f53076IEzT4lkwT7U7E'
 
 OAUTH_SCOPE='https://www.googleapis.com/auth/drive'
 
